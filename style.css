@@ -1,6 +1,18 @@
 
 #logo {
-    font-size: 100px;
-    font-family: Blaka;
-    text-align: center;
+    font-size: 80px;
+    font-family: 'Kdam Thmor Pro';
+    text-align:center;
+    
 }
+
+#logo5 {
+    border-radius: 5px;
+  
+}
+
+h6 {
+    font-size:20px;
+    font-family: 'Blaka';
+}
+
