@@ -7,7 +7,6 @@
 }
 
 #logo5 {
-    border-radius: 5px;
   
 }
 
@@ -18,5 +17,23 @@ h6 {
 
 .btn-close {
     font-size: 30px;
+}
+
+.jhon {
+    line-height: 1.5rem;
+ 
+}
+
+img {
+    border-radius: 3px;
+}
+
+.nn {
+    font-size: 30px;
+    margin-top: -3.5rem;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    background-color: white;
+    text-align: center;
 }
 
