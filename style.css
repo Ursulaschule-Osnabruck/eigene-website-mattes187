@@ -6,11 +6,9 @@
     
 }
 
-.heading{
-    
-}
 
 #logo5 {
+    margin-right: 50px;
   
 }
 
@@ -23,8 +21,29 @@ h6 {
     font-size: 30px;
 }
 
-.jhon {
+.Vorstand {
     line-height: 1.5rem;
+    font-size: 30px;
+    margin-top: -35.5rem;
+    padding-top: 8px;
+    padding-bottom: 5px;
+    background-color: white;
+    text-align: center;
+    font-family: Raleway;
+ 
+}
+
+.Flagge {
+    line-height: 1.5rem;
+    font-size: 30px;
+    margin-top: -25rem;
+    padding-top: 8px;
+    padding-bottom: 5px;
+    background-color: white;
+    text-align: center;
+    font-family: Raleway;
+    color: black;
+
  
 }
 
@@ -32,12 +51,32 @@ img {
     border-radius: 3px;
 }
 
-.nn {
+.history {
+    line-height: 1.5rem;
     font-size: 30px;
-    margin-top: -3.5rem;
-    padding-top: 5px;
-    padding-bottom: 15px;
+    margin-top: -21rem;
+    padding-top: 7px;
+    padding-bottom: 5px;
     background-color: white;
     text-align: center;
+    font-family: Raleway;
+
 }
+
+.kioskz {
+    line-height: 1.5rem;
+    font-size: 30px;
+    margin-top: -32rem;
+    padding-top: 8px;
+    padding-bottom: 5px;
+    background-color: white;
+    text-align: center;
+    font-family: Raleway;
+ 
+}
+
+
+
+
+
 
