@@ -12,6 +12,10 @@
   
 }
 
+h2 {
+    color: black;
+}
+
 h6 {
     font-size:20px;
     font-family: 'Blaka';
@@ -25,8 +29,6 @@ h6 {
     line-height: 1.5rem;
     font-size: 30px;
     margin-top: -35.5rem;
-    padding-top: 8px;
-    padding-bottom: 5px;
     background-color: white;
     text-align: center;
     font-family: Raleway;
@@ -38,8 +40,6 @@ h6 {
     line-height: 1.5rem;
     font-size: 30px;
     margin-top: -25rem;
-    padding-top: 8px;
-    padding-bottom: 5px;
     background-color: white;
     text-align: center;
     font-family: Raleway;
@@ -56,8 +56,6 @@ img {
     line-height: 1.5rem;
     font-size: 30px;
     margin-top: -21rem;
-    padding-top: 7px;
-    padding-bottom: 5px;
     background-color: white;
     text-align: center;
     font-family: Raleway;
@@ -69,13 +67,15 @@ img {
     line-height: 1.5rem;
     font-size: 30px;
     margin-top: -32rem;
-    padding-top: 8px;
-    padding-bottom: 5px;
     background-color: white;
     text-align: center;
     font-family: Raleway;
     color: black;
  
+}
+
+#a {
+    color: black;
 }
 
 
