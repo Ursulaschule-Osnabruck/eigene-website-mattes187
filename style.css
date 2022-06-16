@@ -1,4 +1,7 @@
 
+body {
+    background-image:  repeating-linear-gradient(rgb(151, 151, 151),rgb(248, 248, 248));
+}
 #logo {
     font-size: 60px;
     font-family: 'Kdam Thmor Pro';
@@ -9,7 +12,6 @@
 
 #logo5 {
     margin-right: 50px;
-  
 }
 
 h2 {
@@ -22,7 +24,8 @@ h6 {
 }
 
 .btn-close {
-    font-size: 30px;
+    font-size: 50px;
+    text-align: center;
 }
 
 .Vorstand {
@@ -33,7 +36,6 @@ h6 {
     text-align: center;
     font-family: Raleway;
     color: black;
- 
 }
 
 .Flagge {
@@ -44,8 +46,6 @@ h6 {
     text-align: center;
     font-family: Raleway;
     color: black;
-
- 
 }
 
 img {
@@ -60,7 +60,6 @@ img {
     text-align: center;
     font-family: Raleway;
     color: black;
-
 }
 
 .kioskz {
@@ -76,9 +75,26 @@ img {
 
 .centerp {
     text-align: center;
+    
 }
 
-.
+.footer {
+    background-image:  repeating-linear-gradient(#009036, #00FF01);
+    text-align: center;
+    line-height: 2rem;
+    padding: 5px;
+}
+
+.d-flex {
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.btn-dark{
+    font-size: 25px;
+    margin-left: 150px;
+    margin-bottom: -8.5rem;
+}
 
 
 
