@@ -6,7 +6,12 @@ body {
     font-size: 60px;
     font-family: 'Kdam Thmor Pro';
     text-align:center;
-    
+    background-image:  repeating-linear-gradient(#009036, #00FF01);
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
 }
 
 
@@ -21,6 +26,10 @@ h2 {
 h6 {
     font-size:20px;
     font-family: 'Blaka';
+}
+
+.h7 {
+    font-family: 'Joan';
 }
 
 .btn-close {
@@ -83,6 +92,7 @@ img {
     text-align: center;
     line-height: 2rem;
     padding: 5px;
+    border-radius: 5px;
 }
 
 .d-flex {
@@ -94,6 +104,10 @@ img {
     font-size: 25px;
     margin-left: 150px;
     margin-bottom: -8.5rem;
+}
+
+p {
+    font-family: 'Montserrat';
 }
 
 
