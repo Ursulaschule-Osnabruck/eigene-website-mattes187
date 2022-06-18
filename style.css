@@ -23,6 +23,10 @@ h2 {
     color: black;
 }
 
+h4 {
+    font-size: 40px;
+}
+
 h6 {
     font-size:20px;
     font-family: 'Blaka';
@@ -114,6 +118,17 @@ p {
     text-align: center;
     font-size: 30px;
     font-family: 'Montserat'; 
+}
+
+.Kiosknav {
+    font-size: 20px;
+    font-family: 'Joan';
+}
+
+.card {
+    border-width: 5px;
+    text-align: center;
+    
 }
 
 
